@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-HI SISTER UWUWUUWUWUWU
+something new
 Use the left arrow to go back!
